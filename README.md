@@ -16,7 +16,7 @@ You can get the API key from [here](https://api.monkedev.com)
 
 >START 
 ```sh
-node main.js
+node index.js
 ```
 
 ## Attributions

@@ -9,7 +9,7 @@ npm install @androz2091/insta.js
 ```
 
 ## Setup
-> CREATE A ENV FILE WITH 
+> CREATE AN ENV FILE WITH 
 
 USERNAME , PASSWORD , AND API KEY,  
 You can get the API key from [here](https://api.monkedev.com)

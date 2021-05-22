@@ -22,7 +22,7 @@ password = bot_password
 key = monkedev api key
 ```
 
-##START 
+## START 
 ```sh
 node index.js
 ```

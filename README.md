@@ -14,7 +14,15 @@ npm install @androz2091/insta.js
 USERNAME , PASSWORD , AND API KEY,  
 You can get the API key from [here](https://api.monkedev.com)
 
->START 
+>example 
+
+```js
+username = bot_account
+password = bot_password
+key = monkedev api key
+```
+
+##START 
 ```sh
 node index.js
 ```
